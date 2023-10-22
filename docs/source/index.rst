@@ -6,14 +6,16 @@ This website contains all of the necessary content to carry out the 1 day SAGC s
 -	Thursday 2nd November 2023
 -	Room 4.50, The Braggs Building, The University of Adelaide, Victoria Drive Adelaide, SA 5005 Australia
 
-The course is divided into 4 2hr blocks:
+The course is divided into 4 main parts:
 
-      1. RNA-Seq Introduction
-      2. Coding in RStudio
-      3. Machine Learning Part I
-      4. Machine Learning Part II
+      1. Introducton to scRNA-seq
+      2. Primary data analysis with cellranger
+      3. Downstream secondary analysis with Seurat in R
+      4. Alternative scRNA-seq data structures and related methods such as Spatial Transcriptomics
 
-There are no academic prerequisites to this workshop, however, it may help inform leaving cert subject choices for transition year students by providing hands on experience in the interdisciplinary field of genomics data science encompassing biology, computer science and mathematics.
+There are no strict academic prerequisites to this workshop, however, those with the following expertise will benefit most.
+-      Basic understanding of Next generation sequencing and modern high throughput omics experiments
+-      Decent working knowledge of R
 
 .. toctree::
    :maxdepth: 2
