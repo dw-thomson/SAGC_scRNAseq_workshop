@@ -13,48 +13,6 @@ The course is divided into 4 main parts:
       3. Downstream secondary analysis with Seurat in R
       4. Alternative scRNA-seq data structures and related methods such as Spatial Transcriptomics
 
-There are no strict academic prerequisites to this workshop, however, those with the following expertise will benefit most.
--      Basic understanding of Next generation sequencing and modern high throughput omics experiments
--      Decent working knowledge of R
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Genomics
-
-   /Genomics/introduction
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: R Studio Cloud
-
-   /R/Cloud/introduction
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Coding in RStudio
-
-   /R/Coding/coding
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Visualising Variables
-
-   /R/Plots/visualising_variables
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Machine Learning: Clustering
-
-   /Machine_Learning/Clustering/clustering
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Machine Learning: Classification
-
-   /Machine_Learning/Classification/classification
+There are no strict academic prerequisites for this workshop, however, those with the following experience will benefit most.
+-	Basic understanding of Next generation sequencing and modern high throughput omics experiments
+-	Decent working knowledge of R
