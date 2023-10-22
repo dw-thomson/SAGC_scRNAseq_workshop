@@ -1,4 +1,4 @@
-Genomics Data Science Workshop
+SAGC Bioinformatics Workshop - Single Cell RNA-seq
 ==============================
 
 This website contains all of the necessary materials to run a 2 day workshop for secondary school students on RNA-Sequencing.
