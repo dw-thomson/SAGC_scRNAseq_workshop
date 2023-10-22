@@ -1,7 +1,10 @@
-SAGC Bioinformatics Workshop - Single Cell RNA-seq
+SAGC Bioinformatics Workshop - scRNA-seq
 ==============================
 
-This website contains all of the necessary materials to run a 2 day workshop for secondary school students on RNA-Sequencing.
+This website contains all of the necessary content to carry out the 1 day SAGC scRNA-seq workshop.
+
+-	Thursday 2nd November 2023
+-	Room 4.50, The Braggs Building, The University of Adelaide, Victoria Drive Adelaide, SA 5005 Australia
 
 The course is divided into 4 2hr blocks:
 
