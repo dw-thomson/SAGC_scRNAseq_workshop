@@ -17,3 +17,9 @@ There are no strict academic prerequisites for this workshop, however, those wit
 
 -	Basic understanding of Next generation sequencing and modern high throughput omics experiments
 -	Decent working knowledge of R
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Genomics
