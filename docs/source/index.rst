@@ -29,6 +29,13 @@ There are no strict academic prerequisites for this workshop, however, those wit
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: Set-up
+   
+   Set-up
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: Workshop Notes
    
    notes
