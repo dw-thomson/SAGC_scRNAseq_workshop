@@ -24,7 +24,7 @@ There are no strict academic prerequisites for this workshop, however, those wit
    :hidden:
    :caption: Agendas
    
-   api
+   Agenda
 
 .. toctree::
    :maxdepth: 2
