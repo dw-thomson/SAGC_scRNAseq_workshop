@@ -39,3 +39,18 @@ There are no strict academic prerequisites for this workshop, however, those wit
    :caption: Workshop Notes
    
    notes
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Datasets
+   
+   datasets
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Relevant Papers
+   
+   Papers
+
