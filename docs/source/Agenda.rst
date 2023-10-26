@@ -1,1 +1,3 @@
-this is the agenda for the day ...
+Agenda
+=====
+Below is the agenda for the singl-cell RNA-seq workshop.
