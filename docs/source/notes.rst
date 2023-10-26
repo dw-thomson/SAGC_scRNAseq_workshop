@@ -2,4 +2,4 @@ Notes
 =====
 
 
-Find notes here ...
+Find notes at the following link:
