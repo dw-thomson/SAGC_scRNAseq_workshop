@@ -43,6 +43,14 @@ There are no strict academic prerequisites for this workshop, however, those wit
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: Analysis Markdowns
+   
+   Analysis_Reports
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: Datasets
    
    datasets
