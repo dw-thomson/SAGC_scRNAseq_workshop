@@ -25,3 +25,10 @@ There are no strict academic prerequisites for this workshop, however, those wit
    :caption: Agendas
    
    api
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Notes_pw
+   
+   notes
