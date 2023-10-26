@@ -23,5 +23,3 @@ There are no strict academic prerequisites for this workshop, however, those wit
    :maxdepth: 2
    :hidden:
    :caption: Genomics
-
-   /Agenda
