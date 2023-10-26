@@ -24,4 +24,4 @@ There are no strict academic prerequisites for this workshop, however, those wit
    :hidden:
    :caption: Agendas
    
-   usage
+   api
