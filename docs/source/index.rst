@@ -15,8 +15,8 @@ The course is divided into 4 main parts:
 
 There are no strict academic prerequisites for this workshop, however, those with the following experience will benefit most.
 
--	Basic understanding of Next generation sequencing and modern high throughput omics experiments
--	Decent working knowledge of R
+-	Basic understanding of Next Generation Sequencing and modern high throughput omics experiments.
+-	Decent working knowledge of R.
 
 
 .. toctree::
