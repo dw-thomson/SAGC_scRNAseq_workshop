@@ -22,6 +22,7 @@ cellula     https://gdagstn.github.io/cellulaweb/install.html
 
 Once packages are installed, test installation using the library function.
 
-
 .. code-block:: R
     library(cellchat)
+
+
