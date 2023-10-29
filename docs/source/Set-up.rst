@@ -9,10 +9,10 @@ Please install the following R packages through RStudio. Some dependency package
 ==========  =====
 Package     URL      
 ==========  =====  
-Seurat      https://satijalab.org/seurat/
-scater      https://bioconductor.org/packages/release/bioc/html/scater.html
-SCE	        https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html
-tidyverse   https://www.tidyverse.org/
+Seurat*     https://satijalab.org/seurat/
+scater*     https://bioconductor.org/packages/release/bioc/html/scater.html
+SCE*	      https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html
+ggplot2     https://ggplot2.tidyverse.org/
 scran       https://bioconductor.org/packages/release/bioc/html/scran.html
 cellchat    https://github.com/sqjin/CellChat
 scRNAseq    https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html
