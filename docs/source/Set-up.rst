@@ -18,6 +18,7 @@ cellchat    https://github.com/sqjin/CellChat
 scRNAseq    https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html
 msigdbr     https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html
 cellula     https://gdagstn.github.io/cellulaweb/install.html
+SoupX       https://github.com/constantAmateur/SoupX
 ==========  =====  
 Test installation of each package using the ``library()`` function.
 
