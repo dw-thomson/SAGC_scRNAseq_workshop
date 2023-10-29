@@ -3,7 +3,6 @@ Set-up
 Please install the following R packages in your current RStudio session:
 
 
-package  installation info
 Seurat  https://satijalab.org/seurat/
 SeuratData  https://github.com/satijalab/seurat-data
 SingleCellExperiment	https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html
