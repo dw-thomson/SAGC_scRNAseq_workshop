@@ -2,6 +2,18 @@ Set-up
 ======
 Please install the following R packages in your current RStudio session:
 
+
++---------------------+-----------------------+
+|   Column 1 Header  |   Column 2 Header    |
++=====================+=======================+
+|   Row 1, Col 1     |   Row 1, Col 2       |
++---------------------+-----------------------+
+|   Row 2, Col 1     |   Row 2, Col 2       |
++---------------------+-----------------------+
+|   Row 3, Col 1     |   Row 3, Col 2       |
++---------------------+-----------------------+
+
+
 =====  =====
 A      B      
 =====  =====
@@ -25,13 +37,3 @@ scRNAseq  https://bioconductor.org/packages/release/data/experiment/html/scRNAse
 <br>
 msigdbr  https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html
 
-
-+---------------------+-----------------------+
-|   Column 1 Header  |   Column 2 Header    |
-+=====================+=======================+
-|   Row 1, Col 1     |   Row 1, Col 2       |
-+---------------------+-----------------------+
-|   Row 2, Col 1     |   Row 2, Col 2       |
-+---------------------+-----------------------+
-|   Row 3, Col 1     |   Row 3, Col 2       |
-+---------------------+-----------------------+
