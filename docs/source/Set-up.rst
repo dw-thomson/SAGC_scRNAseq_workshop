@@ -3,12 +3,9 @@ Set-up
 Please install the following R packages in your current RStudio session:
 
 =====  =====
-Package      URL      
+A      B      
 =====  =====
-
-
 Seurat  https://satijalab.org/seurat/
-
 ===== =====
 
 SingleCellExperiment	https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html
