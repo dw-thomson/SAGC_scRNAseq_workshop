@@ -23,7 +23,4 @@ Test
 ====
 Once packages are installed, test installation using the ``library()`` function.
 
-.. code-block:: R
-   library(cellchat)
-
 
