@@ -2,35 +2,13 @@ Set-up
 ======
 Please install the following R packages in your current RStudio session:
 
-=====  =====
-pkg    URL      
-=====  =====  
-False  False  
-True   False  
-False  True   
-True   True   
-=====  =====  
+==========  =====
+package     URL      
+==========  =====  
+Seurat      https://satijalab.org/seurat/
+scater      https://bioconductor.org/packages/release/bioc/html/scater.html
+==========  =====  
 
-
-+---------------------+-----------------------+
-|   Column 1 Header  |   Column 2 Header    |
-+=====================+=======================+
-|   Row 1, Col 1     |   Row 1, Col 2       |
-+---------------------+-----------------------+
-|   Row 2, Col 1     |   Row 2, Col 2       |
-+---------------------+-----------------------+
-|   Row 3, Col 1     |   Row 3, Col 2       |
-+---------------------+-----------------------+
-
-+----------------------+------------------------+
-| Column 1 Header    | Column 2 Header        |
-+======================+========================+
-| Row 1, Column 1     | Row 1, Column 2        |
-+----------------------+------------------------+
-| Row 2, Column 1     | Row 2, Column 2        |
-+----------------------+------------------------+
-| Row 3, Column 1     | Row 3, Column 2        |
-+----------------------+------------------------+
 
 
 
@@ -42,7 +20,7 @@ SingleCellExperiment	https://bioconductor.org/packages/release/bioc/html/SingleC
 <br>
 tidyverse  https://www.tidyverse.org/
 <br>
-scater  https://bioconductor.org/packages/release/bioc/html/scater.html
+
 <br>
 cellula  https://gdagstn.github.io/cellulaweb/install.html
 <br>
