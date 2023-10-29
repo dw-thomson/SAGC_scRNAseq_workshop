@@ -19,3 +19,9 @@ scRNAseq    https://bioconductor.org/packages/release/data/experiment/html/scRNA
 msigdbr     https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html
 cellula     https://gdagstn.github.io/cellulaweb/install.html
 ==========  =====  
+
+Once packages are installed, test installation using the library function.
+
+
+.. code-block:: R
+    library(cellchat)
