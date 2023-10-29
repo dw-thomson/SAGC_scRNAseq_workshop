@@ -2,6 +2,15 @@ Set-up
 ======
 Please install the following R packages in your current RStudio session:
 
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
+
 
 +---------------------+-----------------------+
 |   Column 1 Header  |   Column 2 Header    |
