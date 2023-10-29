@@ -3,7 +3,7 @@ Set-up
 Please install the following R packages in your current RStudio session:
 
 =====  =====
-A      B      
+package      URL      
 =====  =====  
 False  False  
 True   False  
