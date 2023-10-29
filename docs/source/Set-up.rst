@@ -13,6 +13,17 @@ Please install the following R packages in your current RStudio session:
 |   Row 3, Col 1     |   Row 3, Col 2       |
 +---------------------+-----------------------+
 
++----------------------+------------------------+
+| Column 1 Header    | Column 2 Header        |
++======================+========================+
+| Row 1, Column 1     | Row 1, Column 2        |
++----------------------+------------------------+
+| Row 2, Column 1     | Row 2, Column 2        |
++----------------------+------------------------+
+| Row 3, Column 1     | Row 3, Column 2        |
++----------------------+------------------------+
+
+
 
 Seurat  https://satijalab.org/seurat/
 SingleCellExperiment	https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html
