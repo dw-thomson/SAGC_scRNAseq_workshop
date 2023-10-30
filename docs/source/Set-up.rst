@@ -4,7 +4,9 @@ Set-up
 A local installation of R (version 4 or greater) is required before installing RStudio. Instructions may vary based on the OS you are using (Windows, MacOS, Linux etc.). Please follow instructions found here:
 http://mixomics.org/wp-content/uploads/2016/09/Installation-guide-for-R-and-RStudio.pdf
 
-Please install the following R packages through RStudio. Some dependency packages might be required for successful installation. These packages can be installed by copying the R code into your RStudio console and running.
+Please install the following R packages through RStudio. Some dependency packages might be required for successful installation. 
+
+These packages can be installed by copying the R code into your RStudio console and running.
 
 .. code-block:: R
 
@@ -12,7 +14,8 @@ Please install the following R packages through RStudio. Some dependency package
     library(Seurat)
 
 .. code-block:: R
-    ## Install Seurat (version 5)
+    
+    ## Install Seurat (version 5) alternative
     remotes::install_github(“satijalab/seurat”, “seurat5”, quiet = TRUE)
 
 .. code-block:: R
@@ -35,6 +38,23 @@ Please install the following R packages through RStudio. Some dependency package
     install.packages(“BiocManager”)
     BiocManager::install(“dittoSeq”)
     library(dittoSeq)
+
+.. code-block:: R
+
+    # devtools
+    devtools::install_github("hadley/devtools")
+
+.. code-block:: R
+
+    # ComplexHeatMap
+    if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("ComplexHeatmap")
+
+.. code-block:: R
+
+    devtools::install_github(“sqjin/CellChat”)
 
 More information about each package can be found below.
 
