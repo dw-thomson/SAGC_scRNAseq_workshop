@@ -27,6 +27,48 @@ Please install the following R packages through RStudio. Some dependency package
 
 .. code-block:: R
 
+    ## Install Seurat
+    * required
+    ```{Install Seurat_Cran}
+    # Enter commands in R (or R studio, if installed)
+    install.packages(‘Seurat’)
+    library(Seurat)
+    ```
+    ## Install Seurat (Alternative)
+    * alternative method of installation
+    ```{Install Seurat_remotes}
+    remotes::install_github(“satijalab/seurat”, “seurat5”, quiet = TRUE)
+    ```
+    ## Install tidyverse
+    ```{Install tidyverse}
+    install.packages(“tidyverse”)
+    ```
+    ## Install msigdbr
+    ```{Install msigdbr}
+    install.packages(“msigdbr”)
+    library(msigdbr)
+    ```
+    ## Install SoupX
+    ```{Install SoupX}
+    install.packages(‘SoupX’)
+    library(SoupX)
+    ```
+    ## Install dittoSeq
+    ```{Install dittoSeq}
+    if (!require(“BiocManager”, quietly = TRUE))
+        install.packages(“BiocManager”)
+    BiocManager::install(“dittoSeq”)
+    library(dittoSeq)
+    ```
+    ### I think we should remove the following if possible
+    ## Install SingleCellExperiment
+    ```{Install SingleCellExperiment}
+    if (!require(“BiocManager”, quietly = TRUE))
+        install.packages(“BiocManager”)
+    BiocManager::install(“SingleCellExperiment”)
+    library(SingleCellExperiment)
+    ```
+
 ==========  =====
 Package     URL      
 ==========  =====  
