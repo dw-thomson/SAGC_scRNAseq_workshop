@@ -10,15 +10,17 @@ Please install the following R packages through RStudio. Some dependency package
 Package     URL      
 ==========  =====  
 Seurat*     https://satijalab.org/seurat/
-scater*     https://bioconductor.org/packages/release/bioc/html/scater.html
 SCE*	      https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html
-ggplot2     https://ggplot2.tidyverse.org/
-scran       https://bioconductor.org/packages/release/bioc/html/scran.html
-cellchat    https://github.com/sqjin/CellChat
-scRNAseq    https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html
+ggplot2*    https://ggplot2.tidyverse.org/
+cellchat*   https://github.com/sqjin/CellChat
+scRNAseq*   https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html
 msigdbr     https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html
-cellula     https://gdagstn.github.io/cellulaweb/install.html
 SoupX       https://github.com/constantAmateur/SoupX
+
+scater      https://bioconductor.org/packages/release/bioc/html/scater.html
+scran       https://bioconductor.org/packages/release/bioc/html/scran.html
+cellula     https://gdagstn.github.io/cellulaweb/install.html
+
 ==========  =====  
 Test installation of each package using the ``library()`` function.
 
