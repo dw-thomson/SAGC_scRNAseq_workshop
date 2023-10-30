@@ -7,7 +7,7 @@ http://mixomics.org/wp-content/uploads/2016/09/Installation-guide-for-R-and-RStu
 Please install the following R packages through RStudio. Some dependency packages might be required for successful installation. These packages can be installed by copying the R code into your RStudio console and running.
 
 .. code-block:: R
-install.packages(“tidyverse”)
+    install.packages(“tidyverse”)
 
 
 
