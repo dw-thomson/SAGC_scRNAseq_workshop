@@ -39,8 +39,8 @@ Please install the following R packages through RStudio. Some dependency package
 .. code-block:: R
 
     # dittoSeq
-    if (!require(“BiocManager”, quietly = TRUE))
-    install.packages(“BiocManager”)
+    if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
     BiocManager::install("dittoSeq")
     library(dittoSeq)
 
