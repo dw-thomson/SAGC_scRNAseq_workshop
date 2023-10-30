@@ -22,7 +22,7 @@ These packages can be installed by copying the R code into your RStudio console 
 .. code-block:: R
 
     # tidyverse
-    install.packages(“tidyverse”)
+    install.packages("tidyverse")
 
 .. code-block:: R
 
