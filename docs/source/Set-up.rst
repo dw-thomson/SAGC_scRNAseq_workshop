@@ -10,30 +10,35 @@ These packages can be installed by copying the R code into your RStudio console 
 
 .. code-block:: R
 
+    # Seurat
     install.packages(‘Seurat’)
     library(Seurat)
 
 .. code-block:: R
     
-    #Install Seurat (version 5) alternative
+    # Install Seurat (version 5) alternative
     remotes::install_github(“satijalab/seurat”, “seurat5”, quiet = TRUE)
 
 .. code-block:: R
 
+    # tidyverse
     install.packages(“tidyverse”)
 
 .. code-block:: R
 
+    # msigdbr
     install.packages(“msigdbr”)
     library(msigdbr)
 
 .. code-block:: R
 
+    # SoupX
     install.packages(‘SoupX’)
     library(SoupX)
 
 .. code-block:: R
 
+    # dittoSeq
     if (!require(“BiocManager”, quietly = TRUE))
     install.packages(“BiocManager”)
     BiocManager::install(“dittoSeq”)
@@ -49,11 +54,11 @@ These packages can be installed by copying the R code into your RStudio console 
     # ComplexHeatMap
     if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
-
-BiocManager::install("ComplexHeatmap")
+    BiocManager::install("ComplexHeatmap")
 
 .. code-block:: R
 
+    # CellChat
     devtools::install_github(“sqjin/CellChat”)
 
 More information about each package can be found below.
