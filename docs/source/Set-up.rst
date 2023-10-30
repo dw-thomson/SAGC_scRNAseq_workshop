@@ -15,6 +15,18 @@ Please install the following R packages through RStudio. Some dependency package
     library(Seurat)
 
 .. code-block:: R
+
+    # SeuratObject
+    install.packages("SeuratObject")
+    library(SeuratObject)    
+
+.. code-block:: R
+
+    # Remotes
+    install.packages("remotes")
+    library(remotes)
+
+.. code-block:: R
     
     # Install Seurat (version 5) alternative
     remotes::install_github("satijalab/seurat", "seurat5", quiet = TRUE)
