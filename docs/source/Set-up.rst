@@ -17,11 +17,6 @@ scRNAseq*   https://bioconductor.org/packages/release/data/experiment/html/scRNA
 dittoSeq    https://bioconductor.org/packages/release/bioc/html/dittoSeq.html
 msigdbr     https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html
 SoupX       https://github.com/constantAmateur/SoupX
-
-scater      https://bioconductor.org/packages/release/bioc/html/scater.html
-scran       https://bioconductor.org/packages/release/bioc/html/scran.html
-cellula     https://gdagstn.github.io/cellulaweb/install.html
-
 ==========  =====  
 Test installation of each package using the ``library()`` function.
 
