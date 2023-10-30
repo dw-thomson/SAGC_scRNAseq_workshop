@@ -12,8 +12,7 @@ Please install the following R packages through RStudio. Some dependency package
     library(Seurat)
 
 .. code-block:: R
-    ## Install Seurat (Alternative)
-    ## alternative method of installation
+    ## Install Seurat (version 5)
     remotes::install_github(“satijalab/seurat”, “seurat5”, quiet = TRUE)
 
 .. code-block:: R
@@ -21,6 +20,9 @@ Please install the following R packages through RStudio. Some dependency package
     install.packages(“tidyverse”)
 
 .. code-block:: R
+
+    install.packages(“msigdbr”)
+    library(msigdbr)
 
 
 .. code-block:: R
