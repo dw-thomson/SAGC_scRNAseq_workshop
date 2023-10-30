@@ -17,7 +17,7 @@ These packages can be installed by copying the R code into your RStudio console 
 .. code-block:: R
     
     # Install Seurat (version 5) alternative
-    remotes::install_github(“satijalab/seurat”, “seurat5”, quiet = TRUE)
+    remotes::install_github("satijalab/seurat", "seurat5", quiet = TRUE)
 
 .. code-block:: R
 
@@ -27,7 +27,7 @@ These packages can be installed by copying the R code into your RStudio console 
 .. code-block:: R
 
     # msigdbr
-    install.packages(“msigdbr”)
+    install.packages("msigdbr")
     library(msigdbr)
 
 .. code-block:: R
@@ -41,7 +41,7 @@ These packages can be installed by copying the R code into your RStudio console 
     # dittoSeq
     if (!require(“BiocManager”, quietly = TRUE))
     install.packages(“BiocManager”)
-    BiocManager::install(“dittoSeq”)
+    BiocManager::install("dittoSeq")
     library(dittoSeq)
 
 .. code-block:: R
@@ -60,7 +60,7 @@ These packages can be installed by copying the R code into your RStudio console 
 .. code-block:: R
 
     # CellChat
-    devtools::install_github(“sqjin/CellChat”)
+    devtools::install_github("sqjin/CellChat")
 
 More information about each package can be found below.
 
