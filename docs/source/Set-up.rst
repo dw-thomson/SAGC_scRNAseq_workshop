@@ -10,6 +10,7 @@ Please install the following R packages through RStudio. Some dependency package
 Package     URL      
 ==========  =====  
 Seurat*     https://satijalab.org/seurat/
+devtools    https://www.r-project.org/nosvn/pandoc/devtools.html
 SCE*	      https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html
 ggplot2*    https://ggplot2.tidyverse.org/
 cellchat*   https://github.com/sqjin/CellChat
