@@ -56,6 +56,7 @@ These packages can be installed by copying the R code into your RStudio console 
     install.packages("BiocManager")
     BiocManager::install("ComplexHeatmap")
 
+
 .. code-block:: R
 
     # CellChat
