@@ -24,8 +24,17 @@ Please install the following R packages through RStudio. Some dependency package
     install.packages(“msigdbr”)
     library(msigdbr)
 
+.. code-block:: R
+
+    install.packages(‘SoupX’)
+    library(SoupX)
 
 .. code-block:: R
+
+    if (!require(“BiocManager”, quietly = TRUE))
+    install.packages(“BiocManager”)
+    BiocManager::install(“dittoSeq”)
+    library(dittoSeq)
 
 .. code-block:: R
 
