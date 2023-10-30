@@ -14,6 +14,7 @@ SCE*	      https://bioconductor.org/packages/release/bioc/html/SingleCellExperim
 ggplot2*    https://ggplot2.tidyverse.org/
 cellchat*   https://github.com/sqjin/CellChat
 scRNAseq*   https://bioconductor.org/packages/release/data/experiment/html/scRNAseq.html
+dittoSeq    https://bioconductor.org/packages/release/bioc/html/dittoSeq.html
 msigdbr     https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html
 SoupX       https://github.com/constantAmateur/SoupX
 
