@@ -3,7 +3,7 @@ SAGC Bioinformatics Workshop - scRNA-seq
 
 -	Thursday 2nd November 2023
 -	Room 4.50, The Braggs Building, The University of Adelaide, Victoria Drive Adelaide, SA 5005 Australia
--     Registration: https://www.eventbrite.com.au/e/sagc-bioinformatics-workshop-single-cell-rna-seq-tickets-725913967217?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
+-     Registration: https://tinyurl.com/SAGCSingleCell
 
 
 This website contains all of the necessary content to carry out the 1 day SAGC scRNA-seq workshop.
