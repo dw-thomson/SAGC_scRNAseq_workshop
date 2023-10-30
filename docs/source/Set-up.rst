@@ -23,6 +23,7 @@ Please install the following R packages through RStudio. Some dependency package
 
     # tidyverse
     install.packages("tidyverse")
+    library(tidyverse)
 
 .. code-block:: R
 
