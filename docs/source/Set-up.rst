@@ -72,8 +72,8 @@ devtools*   https://www.r-project.org/nosvn/pandoc/devtools.html
 ggplot2*    https://ggplot2.tidyverse.org/
 cellchat*   https://github.com/sqjin/CellChat
 dittoSeq    https://bioconductor.org/packages/release/bioc/html/dittoSeq.html
-SoupX       https://github.com/constantAmateur/SoupX
-msigdbr     https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html
+SoupX*      https://github.com/constantAmateur/SoupX
+msigdbr*    https://cran.r-project.org/web/packages/msigdbr/vignettes/msigdbr-intro.html
 ==========  =====  
 Test installation of each package using the ``library()`` function.
 
