@@ -15,7 +15,7 @@ These packages can be installed by copying the R code into your RStudio console 
 
 .. code-block:: R
     
-    ## Install Seurat (version 5) alternative
+    #Install Seurat (version 5) alternative
     remotes::install_github(“satijalab/seurat”, “seurat5”, quiet = TRUE)
 
 .. code-block:: R
