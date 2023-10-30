@@ -11,7 +11,7 @@ These packages can be installed by copying the R code into your RStudio console 
 .. code-block:: R
 
     # Seurat
-    install.packages(‘Seurat’)
+    install.packages("Seurat")
     library(Seurat)
 
 .. code-block:: R
@@ -33,7 +33,7 @@ These packages can be installed by copying the R code into your RStudio console 
 .. code-block:: R
 
     # SoupX
-    install.packages(‘SoupX’)
+    install.packages("SoupX")
     library(SoupX)
 
 .. code-block:: R
