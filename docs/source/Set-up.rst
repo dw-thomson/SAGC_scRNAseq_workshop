@@ -8,9 +8,24 @@ Please install the following R packages through RStudio. Some dependency package
 
 .. code-block:: R
 
+    install.packages(‘Seurat’)
+    library(Seurat)
+
+.. code-block:: R
+    ## Install Seurat (Alternative)
+    ## alternative method of installation
+    remotes::install_github(“satijalab/seurat”, “seurat5”, quiet = TRUE)
+
+.. code-block:: R
+
     install.packages(“tidyverse”)
 
+.. code-block:: R
 
+
+.. code-block:: R
+
+.. code-block:: R
 
 ==========  =====
 Package     URL      
