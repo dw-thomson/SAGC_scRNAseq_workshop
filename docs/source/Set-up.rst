@@ -57,23 +57,7 @@ Please install the following R packages through RStudio. Some dependency package
     BiocManager::install("dittoSeq")
     library(dittoSeq)
 
-.. code-block:: R
 
-    # devtools
-    devtools::install_github("hadley/devtools")
-
-.. code-block:: R
-
-    # ComplexHeatMap
-    if (!require("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
-    BiocManager::install("ComplexHeatmap")
-
-
-.. code-block:: R
-
-    # CellChat
-    devtools::install_github("sqjin/CellChat")
 
 More information about each package can be found below.
 
