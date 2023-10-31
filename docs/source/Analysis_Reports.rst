@@ -2,6 +2,6 @@ Analysis Reports
 ================
 
 **Part 1:**
-Please find the link to the analysis mardown report here:
+Please follow the link to the analysis mardown here: https://rpubs.com/CKing/SingleCell_Part1
 
-https://rpubs.com/CKing/single-cell_part1
+
