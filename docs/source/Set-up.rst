@@ -14,9 +14,12 @@ code-block:: R
     # Create a directory to store workshop datasets and R code
     - this can be done by right clicking and selecting ‘New Folder’
     - Alternitively this can also be done within Rstudio, using the unix ‘Terminal’ - the tab next to ‘Console’
-    ```bash
+   
+code-block:: bash
+
     mkdir -p ~/Documents/scrna-seq_workshop
-    ````
+
+
     # copy datasets into working directory
     - links to the datasets are via the following one drive address,
     https://sahmrionline-my.sharepoint.com/:f:/g/personal/cathal_king_sahmri_com/EnnB7Iwxn25HtwACcTXD8ZkBr8YLjk61-FxGEPE-vPdLyQ?e=roceOt
