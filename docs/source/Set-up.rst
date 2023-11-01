@@ -56,7 +56,7 @@ Please install the following R packages through RStudio. Some dependency package
     BiocManager::install("dittoSeq")
     library(dittoSeq)
 
-
+Follow the link to instructions on **downloading data**: https://rpubs.com/CKing/Downloading_Data
 
 More information about each package can be found below.
 
