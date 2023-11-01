@@ -60,13 +60,6 @@ There are no strict academic prerequisites for this workshop, however, those wit
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Relevant Papers
-   
-   Papers
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
    :caption: Additional Resources
    
    Additional_Resources
