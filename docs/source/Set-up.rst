@@ -25,6 +25,7 @@ https://sahmrionline-my.sharepoint.com/:f:/g/personal/cathal_king_sahmri_com/Enn
 - click ‘Download’ and copy the data to the workshop directory, e.g. ~/Documents/scrna-seq_workshop
 
 code-block:: R
+
     # check the data
     cd ~/Documents/scrna-seq_workshop/
     ls -l
@@ -35,6 +36,7 @@ code-block:: R
     ``
 
 code-block:: R    
+
     # Within Rstudio, in set this directory as the working directory
     setwd(‘~/Documents/scrna-seq_workshop’)
 
