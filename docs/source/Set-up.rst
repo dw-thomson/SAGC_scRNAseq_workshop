@@ -5,18 +5,16 @@ A local installation of R (version 4.1 or greater) is required before installing
 http://mixomics.org/wp-content/uploads/2016/09/Installation-guide-for-R-and-RStudio.pdf
 
 Please install the following R packages through RStudio. Some dependency packages might be required for successful installation. 
+**The below packages can be installed by copying the R code into your RStudio console and running.**
 
-**These packages can be installed by copying the R code into your RStudio console and running.**
-
-
+Firstly,
 Create a directory to store workshop datasets and R code.
 * This can be done by right clicking and selecting ‘New Folder’
 * Alternitively this can also be done within Rstudio, using the unix ‘Terminal’ - the tab next to ‘Console’
    
 code-block:: R
 
-    mkdir -p ~/Documents/scrna-seq_workshop
-
+   mkdir -p ~/Documents/scrna-seq_workshop
 
 Copy datasets into working directory
 - links to the datasets are via the following one drive address,
