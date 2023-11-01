@@ -1,7 +1,7 @@
 Set-up
 ======
 
-A local installation of R (version 4.0 or greater) is required before installing RStudio. Instructions may vary based on the OS you are using (Windows, MacOS, Linux etc.). Please follow instructions found here:
+A local installation of R (version 4.1 or greater) is required before installing RStudio. Instructions may vary based on the OS you are using (Windows, MacOS, Linux etc.). Please follow instructions found here:
 http://mixomics.org/wp-content/uploads/2016/09/Installation-guide-for-R-and-RStudio.pdf
 
 Please install the following R packages through RStudio. Some dependency packages might be required for successful installation. 
