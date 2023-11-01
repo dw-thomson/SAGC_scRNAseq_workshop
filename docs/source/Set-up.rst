@@ -8,6 +8,32 @@ Please install the following R packages through RStudio. Some dependency package
 
 **These packages can be installed by copying the R code into your RStudio console and running.**
 
+
+code-block:: R
+
+    # Create a directory to store workshop datasets and R code
+    - this can be done by right clicking and selecting ‘New Folder’
+    - Alternitively this can also be done within Rstudio, using the unix ‘Terminal’ - the tab next to ‘Console’
+    ```bash
+    mkdir -p ~/Documents/scrna-seq_workshop
+    ````
+    # copy datasets into working directory
+    - links to the datasets are via the following one drive address,
+    https://sahmrionline-my.sharepoint.com/:f:/g/personal/cathal_king_sahmri_com/EnnB7Iwxn25HtwACcTXD8ZkBr8YLjk61-FxGEPE-vPdLyQ?e=roceOt
+    - click ‘Download’ and copy the data to the workshop directory, e.g. ~/Documents/scrna-seq_workshop
+    # check the data
+    ```bash
+    cd ~/Documents/scrna-seq_workshop/
+    ls -l
+    #unzip if needed (can be done with a double cllick on a mac)
+    unzip Workshop_scRNA-seq.zip
+    open Workshop_scRNA-seq.zip   #mac
+    ls -l          #unix
+    ``
+    # Within Rstudio, in set this directory as the working directory
+    setwd(‘~/Documents/scrna-seq_workshop’)
+
+
 .. code-block:: R
 
     # Seurat
